@@ -1,0 +1,99 @@
+nav {
+    width: 20%;
+    min-width: 250px; /* Set the width for the nav */
+    background-color: #f3f1f3;
+    overflow-y: auto;
+    overflow-x: hidden;
+    border-radius: 0.5rem;
+}
+
+.underline {
+    border-bottom: solid;
+    border-color: rgb(199, 199, 199);
+    border-width: 1px;
+}
+
+.nav-profile {
+    width: 100%;
+    margin-bottom: 1rem;
+    padding: 1rem;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    flex-direction: row;
+}
+
+.nav-profile img {
+    width: 3rem;
+    height: 3rem;
+    margin-right: 1rem;
+    object-fit: cover;
+    border-radius: 2rem;
+}
+
+.nav-profile h4 {
+    margin: 0;
+    padding: 0;
+    font-weight: 200;
+}
+
+.nav-profile-name {
+    margin: 0;
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.nav-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.active-link .nav-button,
+.inactive-link .nav-button {
+    width: 100%;
+    margin-top: 0.5rem;
+    padding: 0.5rem;
+    background-color: #f3f1f3;
+    border: none;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    transition: 0.3s;
+}
+
+.active-link .nav-button {
+    background-color: white;
+    border-radius: 0.3rem;
+}
+
+.active-link .nav-button:hover {
+    background-color: lightgray;
+    border-radius: 0.3rem;
+}
+
+.inactive-link .nav-button:hover {
+    background-color: white;
+    border-radius: 0.3rem;
+}
+
+
+.active-link .nav-button i,
+.inactive-link .nav-button i {
+    font-size: 1rem;
+    color: #a8a8a8;
+    flex: 1;
+}
+
+.active-link .nav-button p,
+.inactive-link .nav-button p {
+    width: 100%;
+    text-align: left;
+    flex: 3;
+    margin: 0;
+}
+
+a {
+    width: 100%;
+}

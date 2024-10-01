@@ -1,0 +1,19 @@
+.personal-data {
+    padding: 20px;
+    text-align: left;
+}
+
+.personal-data table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.personal-data td {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
