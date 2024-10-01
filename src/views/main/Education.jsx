@@ -19,7 +19,7 @@ function Education() {
                         <td>2015 - 2019</td>
                     </tr>
                     <tr>
-                        <td>High School Academy</td>
+                        <td>Kenilworth Secondary School</td>
                         <td>High School Diploma</td>
                         <td>2010 - 2014</td>
                     </tr>
