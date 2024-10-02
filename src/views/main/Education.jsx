@@ -14,14 +14,14 @@ function Education() {
                 </thead>
                 <tbody>
                     <tr>
-                        <td>University of Excellence</td>
+                        <td>University of limpopo</td>
                         <td>Bachelor of Science in Computer Science</td>
-                        <td>2022 - 2024</td>
+                        <td>2024 - 2026</td>
                     </tr>
                     <tr>
                         <td>Kenilworth Secondary School</td>
-                        <td>High School Diploma</td>
-                        <td>2015 - 2021</td>
+                        <td>National Senior Certificate</td>
+                        <td>2017 - 2021</td>
                     </tr>
                 </tbody>
             </table>

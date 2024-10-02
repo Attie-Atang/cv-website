@@ -12,7 +12,7 @@ function PersonalData() {
                     </tr>
                     <tr>
                         <td><strong>Date of Birth:</strong></td>
-                        <td>January 1, 1990</td>
+                        <td>January 29, 2004</td>
                     </tr>
                     <tr>
                         <td><strong>Email:</strong></td>
@@ -20,11 +20,11 @@ function PersonalData() {
                     </tr>
                     <tr>
                         <td><strong>Phone:</strong></td>
-                        <td>+123456789</td>
+                        <td>+27670515739</td>
                     </tr>
                     <tr>
                         <td><strong>Address:</strong></td>
-                        <td>123 Street, City, Country</td>
+                        <td>84 Malta Road, johannesburg, South Africa</td>
                     </tr>
                 </tbody>
             </table>
