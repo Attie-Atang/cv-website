@@ -12,7 +12,7 @@ export default function Main() {
     return (
         <article className="content">
             <Routes>
-                <Route path="/personal-data" element={<PersonalData />} />
+                <Route path="/" element={<PersonalData />} />
                 <Route path="/education" element={<Education />} />
                 <Route path="/work-experience" element={<WorkExperience />} />
                 <Route path="/skills" element={<Skills />} />
