@@ -1,0 +1,18 @@
+.references {
+    padding: 20px;
+    text-align: left;
+}
+
+.references ul {
+    list-style: none;
+    padding: 0;
+}
+
+.references li {
+    margin-bottom: 20px;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}

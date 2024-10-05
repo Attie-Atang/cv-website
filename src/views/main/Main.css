@@ -1,0 +1,28 @@
+.content {
+    height: 100%;
+    padding-right: 1rem;
+    flex: 12;
+}
+
+table, .content p {
+    font-size: 0.9rem;
+}
+
+td, th {
+    text-align: left;
+}
+
+h2 {
+    font-size: 1.4rem;
+}
+
+h3 {
+    font-size: 1.2rem;
+}
+
+@media (max-width: 768px) {
+    .content {
+        width: 100%;
+        margin-top: 1rem;
+    }
+}
