@@ -20,7 +20,7 @@ function Nav() {
 
         <section className="nav-section">
             <NavLink
-            to="/personal-data"
+            to="/"
             className={({ isActive }) => (isActive ? "active-link" : "inactive-link")}
             >
                 <button className="nav-button">
