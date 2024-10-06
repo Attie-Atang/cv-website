@@ -14,7 +14,7 @@ function Profile() {
                     <div className='profile-info'>
                         <img
                             className='profile-img'
-                            src='pic.jpeg'
+                            src='pic.jpg'
                             alt='profile-image' />
                         <div className='profile-details'>
                             <h2 className='profile-name'>Atang Maleka</h2>
