@@ -14,7 +14,7 @@ function Profile() {
                     <div className='profile-info'>
                         <img
                             className='profile-img'
-                            src='pic.jpg'
+                            src='https://drive.google.com/file/d/1OeIYNOTApyexlWu1X1J0F9riiKPLw6T6/view?usp=sharing'
                             alt='profile-image' />
                         <div className='profile-details'>
                             <h2 className='profile-name'>Atang Maleka</h2>
