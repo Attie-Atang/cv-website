@@ -4,6 +4,7 @@
 }
 
 .skills ul {
+    width: 100%;
     list-style: none;
     padding: 0;
 }
@@ -19,4 +20,15 @@
 h2 {
     text-align: center;
     margin-bottom: 20px;
+}
+
+.sk-list {
+    display: flex;
+    justify-content: space-between;
+}
+
+.sk-add {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
 }

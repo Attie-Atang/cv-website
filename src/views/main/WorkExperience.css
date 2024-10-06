@@ -20,3 +20,17 @@ h2 {
     text-align: center;
     margin-bottom: 20px;
 }
+
+.we-inputs {
+    background-color: #f3f1f3;
+    padding: 0.5rem;
+    border-radius: 5px;
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+}
+
+.we-inputs textarea {
+    width: 40%;
+}
