@@ -1,6 +1,9 @@
 import './Profile.css'
 
 function Profile() {
+    const openEmail = () => {
+        window.location.href = `mailto:Atangmaleka78@gmail.com?subject=Subject&body=Body`;
+    }
 
     return (
         <>
@@ -8,7 +11,7 @@ function Profile() {
                 <div className='profile-background'>
                     <img 
                         className='profile-background-img'
-                        src='https://i.pinimg.com/564x/56/b9/7a/56b97a178021083cdb612959bf02083f.jpg' 
+                        src='https://i.pinimg.com/564x/a3/af/35/a3af356c5d57a46a1abdf37421ce3ac3.jpg' 
                         alt='image-background' />
                     
                     <div className='profile-info'>
@@ -35,8 +38,8 @@ function Profile() {
                                 <i className="fa-brands fa-github"></i>
                                 <span>Github</span>
                             </button>
-                            <button>
-                            <i className="fa-solid fa-comment"></i>
+                            <button onClick={openEmail}>
+                                <i className="fa-solid fa-comment"></i>
                                 <span>Message</span>
                             </button>
                         </div>

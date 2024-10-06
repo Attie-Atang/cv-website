@@ -1,6 +1,9 @@
 import './SearchBar.css'
 
 export default function SearchBar() {
+    const openEmail = () => {
+        window.location.href = `mailto:Atangmaleka78@gmail.com?subject=Subject&body=Body`;
+    }
 
     return (
         <>
@@ -17,7 +20,7 @@ export default function SearchBar() {
                         <i className="fa-solid fa-location-dot"></i>
                         <h4>Limpopo, SA</h4>
                     </div>
-                    <div className='email'>
+                    <div className='email' onClick={openEmail}>
                         <i className="fa-solid fa-paper-plane"></i>
                         <h4>Atangmaleka78@gmail.com</h4>
                         <i className="fa-solid fa-arrow-up-right-from-square"></i>
