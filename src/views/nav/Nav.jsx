@@ -7,7 +7,7 @@ function Nav() {
     <nav>
         <div className="nav-profile">
             <img
-            src="https://i.pinimg.com/564x/d3/ff/4a/d3ff4a986d07ca41464b8b96e9aca1a9.jpg"
+            src="pic.jpg"
             alt="profile-img"
             />
             <div>

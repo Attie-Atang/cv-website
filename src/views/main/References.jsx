@@ -6,12 +6,12 @@ function References() {
             <h2>References</h2>
             <ul>
                 <li>
-                    <p><strong>John Doe</strong> - Senior Developer at Tech Solutions</p>
-                    <p>Email: john.doe@example.com | Phone: +987654321</p>
+                    <p><strong>Mr Nkomo</strong> -principal</p>
+                    <p>Email:kenilworthsec@gmail.com | Phone: +27116831416</p>
                 </li>
                 <li>
-                    <p><strong>Jane Smith</strong> - Project Manager at Web Innovators</p>
-                    <p>Email: jane.smith@example.com | Phone: +987654322</p>
+                    <p><strong>Ms Styn</strong> -founder of Lejwe La Motheo</p>
+                    <p>Email: sandystyn@gmail.com | Phone: +27832933082</p>
                 </li>
             </ul>
         </section>
