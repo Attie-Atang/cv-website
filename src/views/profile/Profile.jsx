@@ -5,6 +5,10 @@ function Profile() {
         window.location.href = `mailto:Atangmaleka78@gmail.com?subject=Subject&body=Body`;
     }
 
+    const openGithub = () => {
+        window.open("https://github.com/Attie-Atang/cv-website/tree/main", "_blank");
+    };
+
     return (
         <>
             <article className='profile-article'>
@@ -34,7 +38,7 @@ function Profile() {
                         <div className='profile-underline' />
                         
                         <div className='profile-buttons'>
-                            <button>
+                            <button onClick={openGithub}>
                                 <i className="fa-brands fa-github"></i>
                                 <span>Github</span>
                             </button>
