@@ -8,7 +8,7 @@ function Profile() {
                 <div className='profile-background'>
                     <img 
                         className='profile-background-img'
-                        src='https://img.freepik.com/free-vector/flat-design-polygonal-background_23-2148900723.jpg?t=st=1727465517~exp=1727469117~hmac=92e384a74f9d7f06f184ace1478b8fd844b6ed60f1d5a09af148e10e777e5248&w=1060' 
+                        src='https://i.pinimg.com/564x/56/b9/7a/56b97a178021083cdb612959bf02083f.jpg' 
                         alt='image-background' />
                     
                     <div className='profile-info'>
